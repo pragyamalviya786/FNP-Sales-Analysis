@@ -1,5 +1,5 @@
 # 📊 FNP Sales Analysis (Excel Dashboard Project)
-
+      ![Dashboard](fnp-dashboard.png)
 ## 🔹 Project Overview
 
 This project is an interactive Excel dashboard created to analyze FNP (Ferns N Petals) sales data.
